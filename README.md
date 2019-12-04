@@ -22,9 +22,10 @@
 
 # Masked Rcnn
 
-# (part b) Stock prdiction using LSTM compared with 1d CONV wavenet implementation
-
 ![image](https://user-images.githubusercontent.com/47645194/70172959-a5b8c580-1686-11ea-8f0b-0647d1320ecf.png)
+
+
+# (part b) Stock prdiction using LSTM compared with 1d CONV wavenet implementation
 
 # LSTM
 ![image](https://user-images.githubusercontent.com/47645194/70173189-31caed00-1687-11ea-81ab-e3cc0ce43d98.png)
